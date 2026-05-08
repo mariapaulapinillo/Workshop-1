@@ -1,4 +1,4 @@
-# Workshop-1
+# etl-data-pipeline-kpi-analysis
 This project implements a full ETL pipeline for candidate evaluation data.
 The pipeline follows a Data Warehouse star schema and includes:
 
